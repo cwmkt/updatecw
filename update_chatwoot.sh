@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Defina a senha em uma variável
-password="ColqueSuaSenhaAqui"
+password="SuaSenhaAqui"
 
 # Função para exibir mensagens informativas com destaque
 log_message() {
