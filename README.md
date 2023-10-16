@@ -28,7 +28,7 @@ cd update_chatwoot
 ### Clone o arquivo .sh resposavél pelo update
 
 ```bash
-git clone https://github.com/cwmkt/updatecw
+wget "https://raw.githubusercontent.com/cwmkt/updatecw/main/update_chatwoot.sh"
 ```
 
 ### Edite o arquivo `update_chatwoot.sh` e coloque a senha de sua VPS
